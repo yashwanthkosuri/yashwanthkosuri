@@ -8,8 +8,6 @@ I'm Yashwanth, saying hi from India! Just like a friendly neighbor, I'm here to 
 
 🎧 Oh, and guess what's playing? "Sunflower" by Post Malone and Swae Lee. The beats keep me company while I'm on this tech journey.
 
-🤝 Let's connect on [LinkedIn](www.linkedin.com/in/yashwanthkosuri) and chat about AI, tech, or anything else that's cool!
-
 Thanks for stopping by, neighbor! 😄
 
 
