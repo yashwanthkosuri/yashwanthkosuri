@@ -1,6 +1,6 @@
-# Good morning, and in case I don't see ya: Good afternoon, good evening, and good night! 👋
-![image](https://github.com/yashwanthkosuri/yashwanthkosuri/assets/87197517/34649c81-31d1-4162-8b2e-ee20eb9746d5)
+![image](https://github.com/yashwanthkosuri/yashwanthkosuri/assets/87197517/f396a0cf-e5e1-42b4-8bce-04cb93c92975)
 
+# Good morning, and in case I don't see ya: Good afternoon, good evening, and good night! 👋
 
 I'm Yashwanth, saying hi from India! Just like a friendly neighbor, I'm here to share a bit about me.
 
