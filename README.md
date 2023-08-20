@@ -1,42 +1,17 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a [Your Profession/Interests] based in [Your Location]. I'm passionate about [Your Interests or Fields of Expertise] and enjoy [Some Fun Facts or Hobbies]. 
+Welcome to my GitHub profile! I'm Yashwanth, an AI student from India.
+I'm passionate about AI and technology, and I'm intrigued by how they evolve day by day.
+I'm also interested in UI and UX design.
 
 ## 📖 About Me
 
-- 🔭 I’m currently working on [Current Projects or Focus].
-- 🌱 I’m constantly learning and exploring [Technologies or Skills].
-- 👯 I’m looking to collaborate on [Types of Projects or Communities].
-- 🤔 I’m open to suggestions and discussions about [Topics of Interest].
-- 💬 Ask me about [Something You're Knowledgeable About].
-- 📫 How to reach me: [Your Contact Information].
-
-## 💼 Experience
-
-- [Your Previous Job/Project] - [Duration] - [Brief Description]
-- [Another Job/Project] - [Duration] - [Brief Description]
-
-## 🛠️ Tech Stack
-
-- Programming Languages: [Languages]
-- Frameworks and Libraries: [Frameworks/Libraries]
-- Tools and Technologies: [Tools/Technologies]
-
-## 🌐 Connect with Me
-
-[![LinkedIn](LinkedIn_Icon_Link)](Your_LinkedIn_Profile_Link)
-[![Twitter](Twitter_Icon_Link)](Your_Twitter_Profile_Link)
-[![Personal Website](Website_Icon_Link)](Your_Personal_Website_Link)
-[![Email](Email_Icon_Link)](mailto:your.email@example.com)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](GitHub_Stats_Image_Link)
+- 🔭 I’m currently exploring and learning new things that I don't know in the AI field.
+- 👯 I’m interested in AI and tech and how they are evolving day by day.
+- ⚡ Fun fact: I'm into UI and UX design as well.
 
 ## 🌱 Random Fun
 
-- 🎧 Currently listening to: [Current Music or Podcast]
-- 📚 Reading: [Current Book or Article]
-- ⚡ Fun fact: [Interesting Fact about Yourself]
+- 🎧 Currently listening to: Weekend and Eminem
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to chat. 😄
