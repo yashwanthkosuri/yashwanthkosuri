@@ -9,7 +9,7 @@ I'm Yashwanth, saying hi from India! Just like a friendly neighbor, I'm here to 
 🎧 Oh, and guess what's playing? "Sunflower" by Post Malone and Swae Lee. The beats keep me company while I'm on this tech journey.
 
 Thanks for stopping by, neighbor! 😄
-
+![naruto gif](http://fuckyeahnarutogifs.tumblr.com/post/2300887798/naruto-careful-hot-naruto-shippuden)
 
 
 
