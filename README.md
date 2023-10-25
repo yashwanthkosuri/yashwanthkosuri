@@ -9,7 +9,7 @@ I'm Yashwanth, saying hi from India! Just like a friendly neighbor, I'm here to 
 🎧 Oh, and guess what's playing? "Sunflower" by Post Malone and Swae Lee. The beats keep me company while I'm on this tech journey.
 
 Thanks for stopping by! :)
-![](<div class="tenor-gif-embed" data-postid="22565583" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gojo-gojo-saotoru-jjk-jujutsu-kaisen-gif-22565583">Gojo Gojo Saotoru GIF</a>from <a href="https://tenor.com/search/gojo-gifs">Gojo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+![]()
 
 
 
